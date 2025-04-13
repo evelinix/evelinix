@@ -37,10 +37,6 @@ const eve = {
   <img src="https://skillicons.dev/icons?i=react,vite,ts,laravel,python,html,css,git,github" height='32' />
 </p>
 
----
-
-### 🌸 Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff6bd9&title_color=ff6bd9" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6bd9" height="160"/>
